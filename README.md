@@ -16,3 +16,6 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+### views on ethics
+One thing I took away from Chapter 5 of Ethical Machines is that just knowing what's right and wrong isn't really enough if we're not actually applying it. I feel like especially with AI, we sometimes focus so much on making something work that we forget to think about how it might affect other people. Personally, I think ethics is about being aware of the decisions we make and taking responsibility for them. As someone learning about machine learning, I feel like creating something that works well is important, but making sure it doesn't negatively affect others matters just as much.
